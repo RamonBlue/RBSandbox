@@ -14,8 +14,7 @@
 		764445131CC6509D00649F7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 764445121CC6509D00649F7C /* Assets.xcassets */; };
 		764445161CC6509D00649F7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 764445141CC6509D00649F7C /* LaunchScreen.storyboard */; };
 		764445201CC650EB00649F7C /* RBDeviceSandboxViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7644451F1CC650EB00649F7C /* RBDeviceSandboxViewController.m */; };
-		76681C591CC682480041D7D9 /* Functional Reactive Programming on iOS.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 76681C581CC682480041D7D9 /* Functional Reactive Programming on iOS.pdf */; };
-		76681C5B1CC6825F0041D7D9 /* aa.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76681C5A1CC6825F0041D7D9 /* aa.gif */; };
+		76681C5D1CC68FDA0041D7D9 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 76681C5C1CC68FDA0041D7D9 /* Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +30,7 @@
 		764445171CC6509D00649F7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7644451E1CC650EB00649F7C /* RBDeviceSandboxViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RBDeviceSandboxViewController.h; sourceTree = "<group>"; };
 		7644451F1CC650EB00649F7C /* RBDeviceSandboxViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RBDeviceSandboxViewController.m; sourceTree = "<group>"; };
-		76681C581CC682480041D7D9 /* Functional Reactive Programming on iOS.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Functional Reactive Programming on iOS.pdf"; sourceTree = "<group>"; };
-		76681C5A1CC6825F0041D7D9 /* aa.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = aa.gif; sourceTree = "<group>"; };
+		76681C5C1CC68FDA0041D7D9 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,13 +67,12 @@
 				7644450A1CC6509D00649F7C /* AppDelegate.m */,
 				7644450C1CC6509D00649F7C /* ViewController.h */,
 				7644450D1CC6509D00649F7C /* ViewController.m */,
-				76681C581CC682480041D7D9 /* Functional Reactive Programming on iOS.pdf */,
-				76681C5A1CC6825F0041D7D9 /* aa.gif */,
 				7644451D1CC650EB00649F7C /* RBSandbox */,
 				7644450F1CC6509D00649F7C /* Main.storyboard */,
 				764445121CC6509D00649F7C /* Assets.xcassets */,
 				764445141CC6509D00649F7C /* LaunchScreen.storyboard */,
 				764445171CC6509D00649F7C /* Info.plist */,
+				76681C5C1CC68FDA0041D7D9 /* Icon.png */,
 				764445061CC6509D00649F7C /* Supporting Files */,
 			);
 			path = RBSandboxDemo;
@@ -155,11 +152,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				76681C5B1CC6825F0041D7D9 /* aa.gif in Resources */,
+				76681C5D1CC68FDA0041D7D9 /* Icon.png in Resources */,
 				764445161CC6509D00649F7C /* LaunchScreen.storyboard in Resources */,
 				764445131CC6509D00649F7C /* Assets.xcassets in Resources */,
 				764445111CC6509D00649F7C /* Main.storyboard in Resources */,
-				76681C591CC682480041D7D9 /* Functional Reactive Programming on iOS.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
